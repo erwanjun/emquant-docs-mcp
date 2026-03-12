@@ -24,7 +24,7 @@
     "url": "https://github.com/erwanjun/emquant-docs-mcp/issues"
   },
   "bin": {
-    "emquant-docs-mcp": "./bin/cli.js"
+    "emquant-docs-mcp": "bin/cli.js"
   },
   "files": [
     "bin/",
