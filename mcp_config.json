@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "emquant-docs": {
+      "command": "/Users/jiaqi/Desktop/爬取/.venv/bin/python",
+      "args": ["/Users/jiaqi/Desktop/爬取/emquant-docs-mcp/server.py"]
+    }
+  }
+}

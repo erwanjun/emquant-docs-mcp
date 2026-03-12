@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+crawl_*.py
+fix_*.py
+test_*.py
+mcp_config.json
+.git/
+.DS_Store
+node_modules/

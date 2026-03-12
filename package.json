@@ -1,0 +1,40 @@
+{
+  "name": "emquant-docs-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for EMQuant (东方财富量化终端) documentation - provides search, query and browse tools for Python & C# SDK docs",
+  "keywords": [
+    "mcp",
+    "emquant",
+    "quantitative",
+    "trading",
+    "eastmoney",
+    "documentation",
+    "model-context-protocol",
+    "掘金量化",
+    "东方财富"
+  ],
+  "author": "erwanjun",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erwanjun/emquant-docs-mcp.git"
+  },
+  "homepage": "https://github.com/erwanjun/emquant-docs-mcp#readme",
+  "bugs": {
+    "url": "https://github.com/erwanjun/emquant-docs-mcp/issues"
+  },
+  "bin": {
+    "emquant-docs-mcp": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "server.py",
+    "docs/",
+    "README.md",
+    "README_CN.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  }
+}
